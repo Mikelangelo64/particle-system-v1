@@ -1,0 +1,10 @@
+@import '../base';
+
+.canvas {
+  position: absolute;
+  display: block;
+  z-index: 0;
+
+  //filter: blur(4px) contrast(40);
+  background: var(--color-black-100);
+}
